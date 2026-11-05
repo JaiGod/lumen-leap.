@@ -1,5 +1,19 @@
 # Lumen Leap
 
+## ▶ Play now
+
+| | |
+|---|---|
+| 🌐 **Play in your browser** (PC, phone, tablet) | **[jaigod.github.io/lumen-leap./](https://jaigod.github.io/lumen-leap./)** |
+| 🤖 **Android app** | **[Download the APK](https://github.com/JaiGod/lumen-leap./releases/latest/download/LumenLeap-v1.0.0.apk)**: open it on your phone and allow "install unknown apps" |
+| 🍎 **iPhone / iPad** | Open the browser link in Safari → Share → **Add to Home Screen** |
+| 💻 **Windows / Mac** | [Releases page](https://github.com/JaiGod/lumen-leap./releases/latest) |
+
+**Controls:** A/D or ←/→ move · Space jump (again in mid-air = double jump, into a wall = wall jump) ·
+Shift sprint · Esc pause. On phones a joystick and JUMP/RUN buttons appear automatically.
+
+---
+
 A polished 2D platformer about Lumi, a tiny star-sprite racing from sunrise to midnight. Six handcrafted
 levels, two boss fights, a living day/night sky — and one codebase that ships to **Web, Windows, macOS,
 Android and iOS**.
