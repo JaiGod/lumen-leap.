@@ -29,7 +29,7 @@ audio licensing to worry about (see [ATTRIBUTION.md](ATTRIBUTION.md)).
 ## Quick start
 
 ```bash
-git clone https://github.com/jaineil32624/lumen-leap.git
+git clone https://github.com/JaiGod/lumen-leap..git
 cd lumen-leap
 npm install
 npm run dev          # http://localhost:5173  (also reachable from your phone on the same Wi-Fi)

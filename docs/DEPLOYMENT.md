@@ -4,7 +4,7 @@
 
 1. Push to `main`. In the repo go to **Settings → Pages → Source: GitHub Actions**.
 2. The `pages.yml` workflow builds and publishes. Your game will be at
-   `https://<user>.github.io/lumen-leap/`.
+   `https://jaigod.github.io/lumen-leap./`.
 
 ## itch.io (web)
 

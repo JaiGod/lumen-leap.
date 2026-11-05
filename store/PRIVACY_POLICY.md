@@ -41,4 +41,4 @@ If this policy changes, the updated version will be posted at this URL with a ne
 
 ## Contact
 
-Questions: open an issue at https://github.com/jaineil32624/lumen-leap or email **[your contact email]**.
+Questions: open an issue at https://github.com/JaiGod/lumen-leap. or email **[your contact email]**.

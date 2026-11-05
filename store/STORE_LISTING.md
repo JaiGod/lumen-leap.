@@ -52,9 +52,9 @@ Everyone / 4+ — mild cartoon fantasy action, no blood, no ads, no purchases.
 
 ## Contact
 - Developer: Jaineil Rana
-- Website: https://github.com/jaineil32624/lumen-leap
+- Website: https://github.com/JaiGod/lumen-leap.
 - Email: [your contact email]
-- Privacy policy URL: [https://jaineil32624.github.io/lumen-leap/privacy.html]
+- Privacy policy URL: [https://jaigod.github.io/lumen-leap./privacy.html]
 
 ## Graphics checklist
 | Asset | Size | Source |
